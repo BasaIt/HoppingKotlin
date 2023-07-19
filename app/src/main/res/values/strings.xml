@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HoppingKotlin</string>
+    <string name="add_a_new_shopping_items">Add a new shopping items</string>
+    <string name="amount">Amount</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add">ADD</string>
+</resources>
